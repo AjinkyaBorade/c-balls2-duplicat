@@ -1,1 +1,1 @@
-# c-balls2-duplicat
+# CP-2
